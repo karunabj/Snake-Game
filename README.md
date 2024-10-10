@@ -1,12 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/gUachAgg)
-# COE2SH4-PPA3Template
-Project Preparation Activity 3
+##Snake Game designed with Object Oriented Programming in C++
 
-You must watch the briefing video and read through the manual to engage in the development activities.
+'O' is a classic bagel --> +1 score; +1 body
+'+' is a spicy nacho --> +5 score
+'$' is an energy drink --> +10 score; +2 body
 
-
-Section: [L03]
-
-MacID: [gastonjr]
-
-StudentID: [400464688]
